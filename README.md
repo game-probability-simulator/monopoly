@@ -1,7 +1,7 @@
 # monopoly
 Game Probability Simulator for Monopoly.
 
-The goal of this project is to create a Game Probability SImulator for Monopoly.
+The goal of this project is to create a Game Probability Simulator for Monopoly.
 
 There are three main files involved in this project:
 
